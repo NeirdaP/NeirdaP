@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+🤙 My name is Adrien Patrizio, I'm a software developer in the field of animated film and series.
+
+🐍 I mainly use Python to create tools for the artists and for the development of the pipeline.
+
+🏢 I've worked for 7 years in companies such as Cube Creative, Xilam and Supamonks.
+
 <!--
 **NeirdaP/NeirdaP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
